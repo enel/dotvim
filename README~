@@ -23,6 +23,7 @@ git clone https://..../repo.git repo
 #git commit -m "Install plug-in.vim bundle as a submodule."
 #git push origin master
 
+
 [submodule update]
 #git submodule sync
 #git submodule update
